@@ -24,7 +24,7 @@ public class BaseActivity extends AppCompatActivity {
                 .build();
 
         Retrofit retrofit = new Retrofit.Builder()
-                .baseUrl(IApiConnection.URL_BASE)
+                .baseUrl(Configurations.URL_BASE_PROD)
                 .client(okHttpClient)
                 .addConverterFactory(ScalarsConverterFactory.create())
                 .addConverterFactory(GsonConverterFactory.create())
