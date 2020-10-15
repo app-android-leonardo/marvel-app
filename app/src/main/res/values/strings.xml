@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Marvel</string>
+    <string name="aguarde_">Loagind...</string>
+    <string name="verifique_sua_conexao">Verifique sua conexão!</string>
+    <string name="erro">Response: Erro - Code</string>
+    <string name="falha">Failure: </string>
+    <string name="detalhes">Detalhes</string>
+    <string name="revistas">Revistas</string>
+    <string name="character">Character</string>
+    <string name="comics">Comics</string>
+    <string name="atencao">Attention</string>
+    <string name="not_comics">Não existe histórias em quadrinhos a serem exibidas!\n\nSelecione outro personagem.</string>
+    <string name="ok">OK</string>
+    <string name="not_description">Not description</string>
+    <string name="descricao">Description</string>
+</resources>
